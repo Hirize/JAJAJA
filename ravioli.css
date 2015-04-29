@@ -1,0 +1,33 @@
+#instructions {
+    width:362px;
+    height:60px;
+    background-color:#F13224;
+}
+#burger {
+    width:350px;
+    height:55px;
+}
+#start {
+    width:362px;
+    height:25px;
+    position:absolute;
+}
+#stark {
+    width:130px;
+    height:20px;
+}
+table {
+    background-image: url(http://www.filterforge.com/filters/11978.jpg)
+}
+td {
+    border:0px solid darkblue;
+    width:20px;
+    height: 20px;
+}
+#ravioli {
+    width:15px;
+    height:15px;
+}
+.crosshair {
+    cursor: crosshair;
+}

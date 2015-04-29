@@ -1,0 +1,32 @@
+/*
+    Document   : html.css
+    Created on : 2015-04-28 05:05 PM
+    Author     : 4nonhumans
+    Description:
+    Purpose of the stylesheet follows.
+    To change this template use Tools | Templates.
+*/
+h1{
+    text-align:center;
+    font-family:Arial;
+    font-size:58;
+}
+
+h2{
+    font-size:40;
+    color:red;
+}
+
+p{
+    font-size:25;
+    color:white;
+}
+
+li{
+    font-size:29;
+}
+
+body{
+    background-color: black;
+    color: white;
+}

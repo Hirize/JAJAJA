@@ -1,0 +1,89 @@
+/*"Akshay's Hardware Page" Styling*/
+#center {
+  text-align:center;
+  transition: all 0.6s ease;
+}
+#title {
+  text-align:center;
+  transition: all 0.6s ease;
+}
+#title:hover {
+    -webkit-transform: scale(1.2); }
+/*Button Styling*/
+button {
+  font-family:cursive;
+  font-size:11px;
+  height:20px; border-radius:20px;
+  background-color:yellow;
+  border:none;
+  margin:auto;
+  transition: all 0.6s ease;
+  text-align:center;
+}
+/*Button Hover*/
+button:hover {
+    background-color:none;
+    -webkit-transform: scale(1.2); }
+
+#computer {
+ width:300px;
+}
+table {
+    border: 1px solid gray;
+    width:400px;
+    height:80px;
+    text-align:center;
+}
+td {
+    border: 1px solid gray;
+    font-family:Verdana;
+    font-size:12px;
+    text-align:center;
+}
+.table-title {
+    font-family:Verdana;
+    font-size:18px;
+    color:orange;
+    text-align:center;
+    font-style:bold;
+}
+body {
+    background-color: #1D1D1D;
+    padding: 30px;
+    margin: 0px;
+}
+#snowflakeContainer {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+.snowflake {
+    padding-left: 15px;
+    font-family: Cambria, Georgia, serif;
+    font-size: 14px;
+    line-height: 24px;
+    position: fixed;
+    color: #FFFFFF;
+    user-select: none;
+    z-index: 1000;
+}
+.snowflake:hover {
+    cursor: default;
+}
+h1 {
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #FF3300;
+    padding: 15px;
+    color: #FFF;
+    margin: 0px;
+}
+p, ol {
+    font-family: "Franklin Gothic Medium", "Arial Narrow", sans-serif;
+    font-size: 24px;
+    color: #CCC;
+}
+li {
+    margin-bottom: 24px;
+    padding-left: 10px;
+}

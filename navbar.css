@@ -1,0 +1,31 @@
+/*
+    Document   : navbar.css
+    Created on : 2015-04-28 05:09 PM
+    Author     : 4nonhumans
+    Description:
+    Purpose of the stylesheet follows.
+    To change this template use Tools | Templates.
+*/
+
+#navbar{
+    text-align:center;
+    text-decoration:none;
+    color:green;
+}
+
+#navbar li{
+    display:inline-block;
+    color:green;
+    border: 2px solid blue;
+    padding: 5px;
+    -webkit-border-radius: 20px;
+}
+
+#navbar a{
+    text-decoration:none;
+    color:green;
+}
+
+#navbar: hover {
+    text-align:center;
+}
